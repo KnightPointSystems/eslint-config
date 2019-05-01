@@ -1,0 +1,32 @@
+{
+  "name": "@knightpointsystems/eslint-config",
+  "version": "1.0.0",
+  "description": "Standardized eslint config for KPS",
+  "main": "index.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/KnightPointSystems/eslint-config-kps.git"
+  },
+  "keywords": [
+    "eslint",
+    "eslintconfig",
+    "config",
+    "airbnb",
+    "javascript",
+    "knightpoint",
+    "knightpoint systems",
+    "kps"
+  ],
+  "author": "Dan Brooking (dbrooking@knightpoint.com)",
+  "license": "ISC",
+  "bugs": {
+    "url": "https://github.com/KnightPointSystems/eslint-config-kps/issues"
+  },
+  "homepage": "https://github.com/KnightPointSystems/eslint-config-kps#readme",
+  "dependencies": {
+    "eslint-config-airbnb": "^17.1.0"
+  }
+}

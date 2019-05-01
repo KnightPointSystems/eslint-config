@@ -1,2 +1,2 @@
-# eslint-config-kps
+# @knightpointsystems/eslint-config
 Standardized eslint config for KPS
